@@ -37,6 +37,8 @@ testy_testy := 4;
 #G := CyclicGroup(testy_testy);
 G := DihedralGroup(testy_testy);
 
+#this line is a test for git in fedora 25 for github :P
+
 sz := Size(G);
 H := AsList(G);
 
